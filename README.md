@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FasterThanLigh1
+- 👋 Hi, I’m Quan U Minh(@FasterThanLigh1)
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning computer science at Ho Chi Minh University of Technology .
 - 💞️ I’m looking to collaborate on game developing , game jam.
